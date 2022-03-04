@@ -1,0 +1,3 @@
+[submodule "Unity-Compiled-NonVRspecific/CubeWorld"]
+	path = Unity-Compiled-NonVRspecific/CubeWorld
+	url = https://github.com/federicodangelo/CubeWorld.git
