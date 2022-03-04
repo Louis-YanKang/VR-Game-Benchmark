@@ -4,3 +4,15 @@
 [submodule "Unity-Compiled-NonVRspecific/SanAndreasUnity"]
 	path = Unity-Compiled-NonVRspecific/SanAndreasUnity
 	url = https://github.com/GTA-ASM/SanAndreasUnity.git
+[submodule "Unity-Compiled-NonVRspecific/Multiplayer-FPS"]
+	path = Unity-Compiled-NonVRspecific/Multiplayer-FPS
+	url = https://github.com/Armour/Multiplayer-FPS.git
+[submodule "Unity-Compiled-NonVRspecific/Infinity-Square-Space"]
+	path = Unity-Compiled-NonVRspecific/Infinity-Square-Space
+	url = https://github.com/nvjob/Infinity-Square-Space.git
+[submodule "Unity-Compiled-VRspecific/AirAttack"]
+	path = Unity-Compiled-VRspecific/AirAttack
+	url = https://github.com/Vova-SH/AirAttack.git
+[submodule "Unity-Compiled-VRspecific/AbstractInvadersVR"]
+	path = Unity-Compiled-VRspecific/AbstractInvadersVR
+	url = https://github.com/guneyozsan/AbstractInvadersVR.git
