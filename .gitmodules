@@ -1,3 +1,6 @@
 [submodule "Unity-Compiled-NonVRspecific/CubeWorld"]
 	path = Unity-Compiled-NonVRspecific/CubeWorld
 	url = https://github.com/federicodangelo/CubeWorld.git
+[submodule "Unity-Compiled-NonVRspecific/SanAndreasUnity"]
+	path = Unity-Compiled-NonVRspecific/SanAndreasUnity
+	url = https://github.com/GTA-ASM/SanAndreasUnity.git
